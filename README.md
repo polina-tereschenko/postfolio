@@ -1,8 +1,7 @@
 
+install Ruby
 
-download Ruby
-
-download RubyGems
+install RubyGems
 
 install jekyll
 ```bach
