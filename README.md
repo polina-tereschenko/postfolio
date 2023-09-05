@@ -3,6 +3,7 @@
 download Ruby
 
 download RubyGems
+
 install jekyll
 ```bach
 gem install jekyll bundler
