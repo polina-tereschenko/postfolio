@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![мій аватар](image/avatar.png)
+![мій аватар]({{site.url}}/image/avatar.png)
 
 Мене звати Поліна, мені 18 років.
 Я навчаюсь в [КПІ](https://www.kpi.ua/) на другому курсі 152-гої спеціальності.
